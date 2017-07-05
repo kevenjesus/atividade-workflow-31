@@ -1,0 +1,24 @@
+{
+  "name": "workflow",
+  "description": "aula de workflow",
+  "main": "index.js",
+  "authors": [
+    "Rubens Freitas"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "curso",
+    "aula"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
